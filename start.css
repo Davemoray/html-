@@ -1,0 +1,18 @@
+ body {
+    background-color: rgb(163, 181, 202);
+    border-style: double;
+}
+
+th {
+    color: brown;
+    text-align: center;
+}
+
+ul{
+    list-style-type: square;
+}
+
+th {
+    color: rgb(150, 20, 20);
+    
+}
